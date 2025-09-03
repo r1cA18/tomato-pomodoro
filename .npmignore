@@ -1,0 +1,46 @@
+# Development files
+.git/
+.gitignore
+.claude/
+memory/
+specs/
+templates/
+scripts/
+INTERACTIVE_MODE.md
+
+# Test files
+test/
+tests/
+*.test.js
+*.spec.js
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Documentation source files (keep README.md)
+docs/
+
+# Examples
+examples/
+
+# Build tools config
+.eslintrc*
+.prettierrc*
+.editorconfig
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+.temp/

@@ -1,0 +1,28 @@
+{
+  "name": "tomato-pomodoro",
+  "version": "1.0.0",
+  "description": "🍅 Tomato Pomodoro - A modern CLI productivity timer with elegant UI and smart notifications",
+  "main": "src/index.js",
+  "bin": {
+    "pomodoro": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^1.0.11",
+    "boxen": "^8.0.1",
+    "chalk": "^4.1.2",
+    "commander": "^14.0.0",
+    "conf": "^14.0.0",
+    "inquirer": "^8.2.7",
+    "node-notifier": "^10.0.1",
+    "ora": "^5.4.1"
+  }
+}
