@@ -1,4 +1,4 @@
-# 🍅 Tomato Pomodoro
+# 🍅 Tomato Pomodoro (Beta)
 
 A modern CLI productivity timer with elegant UI and smart notifications for macOS. Enhance your focus and productivity with the time-tested Pomodoro Technique in your terminal.
 
@@ -320,15 +320,6 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 ## 📮 Support
 
 If you encounter any issues or have questions, please file an issue on the GitHub repository.
-
-## 🚀 Roadmap
-
-- [ ] Windows and Linux notification support
-- [ ] Statistics and productivity tracking
-- [ ] Task integration
-- [ ] Sound notifications
-- [ ] Web dashboard
-- [ ] Mobile companion app
 
 ---
 
